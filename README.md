@@ -1,4 +1,4 @@
-# GsmWifiRelay одноканальное GSM/WiFi реле для постоянного тока на базе Wemos D1 mini & SIM800L
+# GsmWifiRelay одноканальное двухдиапазонное (GSM/WiFi) реле для постоянного тока на базе Wemos D1 mini & SIM800L
 ## Схема устройства:
 <img src="./schematic.png">
 
